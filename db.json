@@ -1,10 +1,31 @@
 {
-	"loginSuccess": {
-		"resultCode": "ERR_OK",
-		"accessToken": "12345678"
-	},
-
-	"loginFailure": {
-		"resultCode": "ERR_INVALID_LOGIN"
-	}
+  "loginSuccess": {
+    "resultCode": "ERR_OK",
+    "accessToken": "12345678"
+  },
+  "loginFailure": {
+    "resultCode": "ERR_INVALID_LOGIN"
+  },
+  "items": [
+    {
+      "id": "73A7F70C-75DA-4C2E-B5A3-EED40DC53AA6",
+      "description": "a description",
+      "location": "a location",
+      "image": "https://url-1.com"
+    },
+    {
+      "id": "BA298A85-6275-48D3-8315-9C8F7C1CD109",
+      "description": "another description",
+      "image": "https://url-2.com"
+    },
+    {
+      "id": "5A0D45B3-8E26-4385-8C5D-213E160A5E3C",
+      "location": "even another location",
+      "image": "https://url-3.com"
+    },
+    {
+      "id": "FF0ECFE2-2879-403F-8DBE-A83B4010B340",
+      "image": "https://url-4.com"
+    }
+  ]
 }
