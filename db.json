@@ -1,0 +1,10 @@
+{
+	"loginSuccess": {
+		"resultCode": "ERR_OK",
+		"accessToken": "12345678"
+	},
+
+	"loginFailure": {
+		"resultCode": "ERR_INVALID_LOGIN"
+	}
+}
